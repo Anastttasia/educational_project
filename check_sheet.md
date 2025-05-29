@@ -19,6 +19,6 @@
         <th>Сумма резерва не  больше суммы на счету. Данные карты корректны (т.е введены 16 цифр)</th>
         <th>Поле "Номер карты" заполняется корректно</th>
         <th>Соответсвует ожидаемому</th>
-        <td style="background-color: green;">done</td>
+        <th style="background-color: green">done</th>
     </tr>
 </table>
